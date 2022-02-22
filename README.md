@@ -1,4 +1,3 @@
-<br>
 <h3 align="center"> Hi there. I'm Yoorhim 👋 </h3>
 <p align="center">
   I'm majoring in <strong>Software Convergence</strong> at Sookmyung Women's University.
@@ -30,6 +29,7 @@
   <a href="https://www.instagram.com/ru_urzlo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p>
 
+<br>
 <br>
 <br>
 <p align="right">
