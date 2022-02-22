@@ -2,7 +2,7 @@
 <p align="center">
   I'm majoring in <strong>Software Convergence</strong> at Sookmyung Women's University.
 <br>
-  I'm currently interested in <Strong>Deep Learning</strong>, <Strong>Computer Vision</strong>
+  I'm currently interested in <Strong>Deep Learning</strong>, <Strong>Computer Vision</strong>, and <Strong>Android</strong>
 </p>
 <br>
 
