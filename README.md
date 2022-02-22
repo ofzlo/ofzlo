@@ -4,7 +4,6 @@
 <br>
   I'm currently interested in <Strong>Deep Learning</strong>, <Strong>Computer Vision</strong>, and <Strong>Android</strong>
 </p>
-<br>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center"> Techs that I've used at least once </p>
@@ -21,7 +20,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp 
 </p>
-<br>
 
 <h3 align="center">📌 How to reach me 📌</h3>
 <p align="center">
