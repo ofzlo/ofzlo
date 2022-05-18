@@ -23,7 +23,7 @@
 
 <h3 align="center">📌 How to reach me 📌</h3>
 <p align="center">
-  <a href="mailto:abcd2fghijklm@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:yourmejo@gmail.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
   <a href="https://www.instagram.com/ofzlo_u/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
 </p>
 
