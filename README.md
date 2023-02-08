@@ -2,7 +2,7 @@
 <p align="center">
   I'm majoring in <strong>Software Convergence</strong> at Sookmyung Women's University.
 <br>
-  I'm currently interested in <Strong>ML/DL</strong>, <Strong>Medical AI, Bioinformatics</strong>
+  I'm currently interested in <Strong>Machine Learning/Deep Learning</strong>
 </p>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
