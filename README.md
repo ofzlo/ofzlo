@@ -4,7 +4,7 @@
 🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Generative AI</strong>.   
 
 #### ✨ Experience    
-🤹 Extra Activity    
+🤹 External Activity    
 - Sookmyung Information Security Study, Member (2019)    
 - Google Developer Student Clubs, Member (2021-2022)    
 - Google Developer Student Clubs, ML Core Member (2022-2023)    
