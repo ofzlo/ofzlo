@@ -4,18 +4,19 @@
 🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Generative AI</strong>.   
 
 #### ✨ Experience    
-🤹 Extracurricular Activity    
-- Sookmyung Information Security Study, Member (2019)    
-- Google Developer Student Clubs, Member (2021-2022)    
-- Google Developer Student Clubs, ML Core Member (2022-2023)    
-- Deep Daiv, Medical AI Team & Diffusion Study Lead (2023)    
+🤹 Extracurricular Activity     
+- Deep Daiv, Medical AI Team & Diffusion Study Lead (2023)
+- Google Developer Student Clubs, ML Core Member (2022-2023)
+- Google Developer Student Clubs, Member (2021-2022)
+- Sookmyung Information Security Study, Member (2019)   
 
 🧑‍💻 Research Experience   
-
-- Aerosol & Colloid Lab @ Sookmyung W. Univ (2022-2023)     
-  - Image Cell Counting Project, Undergraduate Student Researcher   
-  - Psychological analysis based on illustrated diary Project, Advisor   
 - Visual Intelligence Lab @ ETRI (2023.07-08)   
+- Aerosol & Colloid Lab @ Sookmyung W. Univ (2022-2023)
+  - Psychological analysis based on illustrated diary Project, Advisor   
+  - Image Cell Counting Project, Undergraduate Student Researcher   
+  
+
 <br>
 <p align="right">
   <a href="mailto:yourmejo@gmail.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
