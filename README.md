@@ -12,7 +12,7 @@
 - Sookmyung Information Security Study, Member (2019)   
 
 🧑‍💻 Research Experience   
-- Artificial Intelligence and Media Lab @ Sungkyunkwan University(2023.10-present)  
+- Artificial Intelligence and Media Lab @ Sungkyunkwan University (2023.10-present)  
 - Visual Intelligence Lab @ ETRI (2023.07-08)   
 - Aerosol & Colloid Lab @ Sookmyung W. Univ (2022-2023)   
   - Psychological analysis based on illustrated diary Project, Advisor   
