@@ -5,10 +5,10 @@
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
-- Deep Daiv, Summer season Diffusion Team Mentor (2023)
-- Deep Daiv, Spring season Paper Review Study Member (2023)
-- Google Developer Student Clubs, ML Core Member (2022-2023)
-- Google Developer Student Clubs, Member (2021-2022)
+- [Deep Daiv](http://deepdaiv.com), Summer season Diffusion Team Mentor (2023)
+- [Deep Daiv](http://deepdaiv.com), Spring season Paper Review Study Member (2023)
+- [Google Developer Student Clubs](https://developers.google.com/community/gdsc), ML Core Member (2022-2023)
+- [Google Developer Student Clubs](https://developers.google.com/community/gdsc), Member (2021-2022)
 - Sookmyung Information Security Study, Member (2019)   
 
 🧑‍💻 Research Experience   
