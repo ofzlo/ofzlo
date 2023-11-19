@@ -1,7 +1,7 @@
 ### Hi there. I'm Yoorhim 👋   
 🏫 I'm majoring in <strong>Software Convergence</strong> at Sookmyung Women's University.     
 
-🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Generative AI</strong>.   
+🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Generative AI, Multi-modal, and Computer Vision</strong>.   
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
