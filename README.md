@@ -1,7 +1,7 @@
 ### Hi there. I'm Yoorhim 👋   
-🏫 I'm majoring in <strong>Software Convergence</strong> at Sookmyung Women's University.     
+🏫 I'm an M.S. student in <strong>Department of Immersive Media Engineering</strong> at Sungkyunkwan University.     
 
-🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Multimodal learning, 3D computer vision, Generative models, Reinforcement learning</strong>.   
+🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Multimodal learning, 3D computer vision, Generative models, and Reinforcement learning</strong>.   
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
@@ -14,7 +14,7 @@
 - Sookmyung Information Security Study, Member (2019)   
 
 🧑‍💻 Research Experience   
-- Artificial Intelligence and Media Lab @ Sungkyunkwan University (2023.10-present)  
+- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ Sungkyunkwan University (2023.10-present)  
 - Visual Intelligence Lab @ ETRI (2023.07-08)   
 - Aerosol & Colloid Lab @ Sookmyung W. Univ (2022-2023)   
   - Psychological analysis based on illustrated diary Project, Advisor   
