@@ -1,11 +1,11 @@
 ### Hi there. I'm Yoorhim 👋   
-🏫 I'm an M.S. student in <strong>Department of Immersive Media Engineering</strong> at Sungkyunkwan University.     
+🏫 I'm an M.S. student in <strong>Department of Immersive Media Engineering</strong> at Sungkyunkwan University.     
 
 🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Multimodal learning, 3D computer vision, Generative models, and Reinforcement learning</strong>.   
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
-- [Deep Daiv](https://deepdaiv.oopy.io/) (2023-present)
+- [deep daiv.](https://deepdaiv.oopy.io/) (2023-present)
   - Multi-Modality Team, Mentor (Nov.2023-present)
   - Diffusion Team, Mentor (Aug.2023-Sep.2023)
   - Paper Review Study, Member (May.2023-Jul.2023)
