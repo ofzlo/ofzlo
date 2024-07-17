@@ -22,5 +22,5 @@
 
 <br>
 <p align="right">
-  <a href="mailto:yourmejo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="mailto:yourmejo@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yourmejo@gmail.com"/></a>
 </p>
