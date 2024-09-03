@@ -5,8 +5,8 @@
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
-- [deep daiv.](https://deepdaiv.oopy.io/) (2023-present)
-  - Megazine Team, Editor (Jul.2024-present)
+- [deep daiv.](https://deepdaiv.oopy.io/) (2023-*present*)
+  - Megazine Team, Editor (Jul.2024-*present*)
   - Multi-Modality Team, Mentor (Nov.2023-Jul.2024)
   - Diffusion Team, Mentor (Aug.2023-Sep.2023)
   - Paper Review Study, Member (May.2023-Jul.2023)
@@ -16,7 +16,7 @@
 - Sookmyung Information Security Study, Member (Mar.2019-Dec.2019)   
 
 🧑‍💻 Research Experience   
-- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ [Sungkyunkwan University](https://www.skku.edu/eng/) (Oct.2023-present)  
+- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ [Sungkyunkwan University](https://www.skku.edu/eng/) (Oct.2023-*present*)  
 - [Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jul.2023-Aug.2023)   
 - Aerosol & Colloid Lab @ Sookmyung W. Univ (May.2022-Dec.2023)
   
