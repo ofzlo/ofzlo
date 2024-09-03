@@ -11,14 +11,14 @@
   - Diffusion Team, Mentor (Aug.2023-Sep.2023)
   - Paper Review Study, Member (May.2023-Jul.2023)
 - [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
-  - ML Core Member (2022-2023)
-  - Member (2021-2022)
-- Sookmyung Information Security Study, Member (2019)   
+  - ML Core Member (Sep.2022-Jun.2023)
+  - Member (Sep.2021-Aug.2022)
+- Sookmyung Information Security Study, Member (Mar.2019-Dec.2019)   
 
 🧑‍💻 Research Experience   
-- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ [Sungkyunkwan University](https://www.skku.edu/eng/) (2023.10-present)  
-- [Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (2023.07-08)   
-- Aerosol & Colloid Lab @ Sookmyung W. Univ (2022-2023)
+- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ [Sungkyunkwan University](https://www.skku.edu/eng/) (Oct.2023-present)  
+- [Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jul.2023-Aug.2023)   
+- Aerosol & Colloid Lab @ Sookmyung W. Univ (May.2022-Dec.2023)
   
 
 <br>
