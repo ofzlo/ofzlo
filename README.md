@@ -7,7 +7,7 @@
 🤹 Extracurricular Activity     
 - [deep daiv.](https://deepdaiv.oopy.io/) (2023-*present*)
   - Megazine Team, Editor (Jul.2024-*present*)
-  - Multi-Modality Team, Mentor (Nov.2023-Jul.2024)
+  - Multimodal Team, Mentor (Nov.2023-Jul.2024)
   - Diffusion Team, Mentor (Aug.2023-Sep.2023)
   - Paper Review Study, Member (May.2023-Jul.2023)
 - [Google Developer Student Clubs](https://developers.google.com/community/gdsc)
