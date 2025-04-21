@@ -1,13 +1,13 @@
 ### Hi there. I'm Yoorhim 👋   
 🏫 I'm an M.S. student in <strong>Department of Immersive Media Engineering</strong> at Sungkyunkwan University.     
 
-🔥 I enjoy sharing and growing together. Also, I want to contribute to creating a society where artificial intelligence can coexist with humans. Currently, I'm interested in <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>.   
+🔥 I enjoy sharing and growing together. Additionally, I aim to contribute to creating a society where artificial intelligence can coexist harmoniously with humans. Currently, I'm interested in <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>.   
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
-- [deep daiv.](https://deepdaiv.oopy.io/) (2023-*present*)
-  - Retrieval-Augmented Generation(RAG) Team, Mentor (Nov.2024-*present*)   
-  - Megazine Team, Editor (Jul.2024-*present*) → 🎉 [Magazine Funding](https://link.tumblbug.com/GY8OZOnRENb) is **OUT NOW** !!
+- [deep daiv.](https://deepdaiv.oopy.io/) (May.2023-Feb.2025)
+  - Retrieval-Augmented Generation(RAG) Team, Mentor (Nov.2024-Feb.2025)   
+  - Megazine Team, Editor (Jul.2024-*present*) [Magazine](https://link.tumblbug.com/GY8OZOnRENb) completed successfully — thank you!
   - Multimodal Team, Mentor (Nov.2023-Jul.2024)
   - Diffusion Team, Mentor (Aug.2023-Sep.2023)
   - Paper Review Study, Member (May.2023-Jul.2023)
