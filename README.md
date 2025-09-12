@@ -1,7 +1,7 @@
 ### Hi there. I'm Yoorhim 👋   
 🏫 I'm an M.S. student in <strong>Department of Immersive Media Engineering</strong> at Sungkyunkwan University.     
 
-🔥 I enjoy sharing and growing together. Additionally, I aim to contribute to creating a society where artificial intelligence can coexist harmoniously with humans. Currently, I'm interested in <Strong>Multimodal learning, Parameter efficient learning, and Sensor fusion</strong>.   
+🔥 I enjoy sharing and growing together. Additionally, I am interested in learning how robots think in the real world 🌍. Currently, My research focuses on <Strong>Multimodal learning with touch, representation learning, and robot perception</strong>.   
 
 #### ✨ Experience    
 🤹 Extracurricular Activity     
