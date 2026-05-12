@@ -1,5 +1,5 @@
 ### Hi there. I'm Yoorhim 👋   
-🏫 I'm a Post-Master's Researcher at [ETRI](https://www.etri.re.kr/eng/main/main.etri), and an M.S. student at Sungkyunkwan University.     
+🏫 I'm a Post Masters Researcher at [ETRI](https://www.etri.re.kr/eng/main/main.etri).
 
 🔥 I enjoy sharing and growing together. Additionally, I am interested in learning how robots think in the real world 🌍. Currently, My research focuses on <Strong>Multimodal learning with touch, representation learning, and robot perception</strong>.   
 
