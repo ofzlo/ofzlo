@@ -8,7 +8,7 @@
 - Sookmyung Information Security Study, Member (Mar.2019-Dec.2019)   
 
 🧑‍💻 Research Experience   
-- [Artificial Intelligence and Media Lab](https://aim.skku.edu/home) @ [Sungkyunkwan University](https://www.skku.edu/eng/) (Oct.2023-*present*)  
+- [Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jan.2026-Jul.2026)   
 - [Visual Intelligence Lab](https://etri-visualintelligence.github.io/) @ [Electronics and Telecommunications Research Institute(ETRI)](https://www.etri.re.kr/eng/main/main.etri) (Jul.2023-Aug.2023)   
 - Aerosol & Colloid Lab @ Sookmyung W. Univ (May.2022-Dec.2023)
   
